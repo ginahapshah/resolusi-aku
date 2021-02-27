@@ -2,3 +2,4 @@ RESOLUSI AKU
 - Konsisten untuk membuat 3 website dalam 1 bulan 
 - Paham HTML, CSS, dan JavaScript terutama framework JS yaitu Vue.js
 - Paham Excel
+- Membuat website sendiri
